@@ -1,0 +1,28 @@
+College Admission Information:
+
+1. Admissions for B.Tech and Diploma courses begin on July 1st and close on July 31st.
+
+2. Eligibility Criteria:
+   - B.Tech: Must have completed 12th with Physics, Chemistry, and Mathematics.
+   - Diploma: Must have completed 10th standard with minimum 50% marks.
+
+3. Required Documents:
+   - 10th & 12th Marksheet (original + photocopy)
+   - Aadhar Card
+   - Passport-size Photos (4 copies)
+   - Migration Certificate (if applicable)
+
+4. Application Process:
+   - Visit the official college website
+   - Fill the online application form
+   - Upload documents and submit the form
+   - Appear for document verification at the college campus
+
+5. Fees:
+   - Application fee: ₹500 (non-refundable)
+   - B.Tech first-year fees: ₹85,000
+   - Diploma first-year fees: ₹45,000
+
+6. Contact:
+   - Email: admissions@college.edu
+   - Phone: +91-9876543210
